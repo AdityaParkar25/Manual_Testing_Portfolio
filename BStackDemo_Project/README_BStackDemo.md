@@ -11,9 +11,7 @@ Manual testing of the BStackDemo e-commerce demo application (https://bstackdemo
 
 ## Summary
 - Test cases designed: 30 (covering 10 requirements)
-- Executed: [N]  |  Passed: [N]  |  Failed: [N]  |  Blocked: [N]
-- Defects logged: [N]
+- Executed: 30  |  Passed: 29  |  Failed: 1  |  Blocked: 0
+- Defects logged: 1
 - Techniques used: Equivalence Partitioning, Boundary Value Analysis, error guessing, exploratory testing
 
-## Related work
-Automation of the same application: [link to your BStackDemo Selenium repo]

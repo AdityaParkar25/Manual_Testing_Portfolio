@@ -17,7 +17,7 @@ Manual testing of the e-commerce demo site https://www.saucedemo.com: test plann
 SauceDemo_Project/
 ├── README.md
 ├── Test_Plan.docx
-├── SauceDemo_Test_Artifacts.xlsx   (Summary, Test Cases, RTM, Bug Reports)
+├── SauceDemo_Manual_Test_Artifacts.xlsx   (Summary, Test Cases, RTM, Bug Reports)
 └── screenshots/                    (evidence for each bug, e.g. BUG-001.png)
 ```
 

@@ -1,6 +1,6 @@
 # SauceDemo Manual Testing Project
 
-Manual testing of the e-commerce demo site https://www.saucedemo.com/: test planning, test cases, requirement traceability and defect reporting.
+Manual testing of the e-commerce demo site https://www.saucedemo.com: test planning, test cases, requirement traceability and defect reporting.
 
 ## Project Summary
 | Item | Detail |
@@ -10,20 +10,20 @@ Manual testing of the e-commerce demo site https://www.saucedemo.com/: test plan
 | Requirements covered | 13 (100% mapped in RTM) |
 | Bugs reported | 6 |
 | Modules | Login, Inventory, Product Detail, Cart, Checkout, Navigation |
-| Tester | Prathamesh Dalvi |
+| Tester | Aditya Parkar |
 
 ## Repository Structure
 ```
-saucedemo-manual-testing/
+SauceDemo_Project/
 ├── README.md
-├── Test_Plan.md
+├── Test_Plan.docx
 ├── SauceDemo_Test_Artifacts.xlsx   (Summary, Test Cases, RTM, Bug Reports)
 └── screenshots/                    (evidence for each bug, e.g. BUG-001.png)
 ```
 
 ## Artifacts
-- [Test Plan](Test_Plan.md)
-- [Test Cases, RTM and Bug Reports (Excel)](SauceDemo_Test_Artifacts.xlsx)
+- [Test Plan](SauceDemo_Test_Plan.docx)
+- [Test Cases, RTM and Bug Reports (Excel)](SauceDemo_Manual_Test_Artifacts.xlsx)
 
 ## Defect Summary
 | ID | Title | Severity |
@@ -36,4 +36,4 @@ saucedemo-manual-testing/
 | BUG-006 | problem_user: Last Name input fills the First Name field | Critical |
 
 ## Tools
-Google Chrome, Microsoft Excel, Git and GitHub
+Google Chrome, Microsoft Excel, GitHub
